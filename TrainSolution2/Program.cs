@@ -10,6 +10,10 @@ namespace TrainSolution2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("ssss"); //สรุปการโยนลูกเต๋าให้เท่ากับ 1 ว่ากี่ครั้ง
+            String s = Console.ReadLine();
+            Console.WriteLine(s);
+            Console.ReadLine();
         }
     }
 }
